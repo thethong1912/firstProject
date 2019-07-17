@@ -223,7 +223,7 @@ public class ProductManager extends javax.swing.JFrame {
     private void btnAddNewActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddNewActionPerformed
         txtID.setText("");
         txtName.setText("");
-        
+        System.out.print("Add new success");
         
         
     }//GEN-LAST:event_btnAddNewActionPerformed
